@@ -1,0 +1,35 @@
+.download-manager {
+    padding: 2rem;
+}
+
+.loader-wrapper {
+    padding: 1rem;
+    border: 2px solid #000;
+    background-color: #9ad4f6;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.file-list {
+    padding: 0;
+    margin-top: 25px;
+    list-style-type: none;
+}
+
+.loader-footer {
+    margin-top: 20px;
+}
+
+.file {    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.text {
+    font-size: 20px;
+    color: #000;
+}
